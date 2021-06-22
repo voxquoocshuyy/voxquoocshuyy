@@ -6,6 +6,8 @@
 </a>
 <a href="https://www.linkedin.com/in/qu%E1%BB%91cc-huyy-492200215/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/voxquoocshuyy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/voxquoocshuyy" target="blank"><img align="center" alt="Brijesh Dhanani" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
  <a href = "mailto: voquochuy1502@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 <hr>
