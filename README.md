@@ -1,3 +1,4 @@
+<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vo Quoc Huy</h1>
 <h3 align="center">Software Engineer | FPT University </h3>
@@ -40,7 +41,7 @@
 </div>
 
 <hr>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 <!---
 voxquoocshuyy/voxquoocshuyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
