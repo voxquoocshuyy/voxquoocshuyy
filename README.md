@@ -12,7 +12,7 @@
  <a href = "mailto: voquochuy1502@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 <hr>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=voxquoocshuyy&count_private=true&theme=radical"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=voxquoocshuyy&count_private=true&theme=radical" /><br>
 <img align="right" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxquoocshuyy&count_private=true&theme=radical" />
 
 
