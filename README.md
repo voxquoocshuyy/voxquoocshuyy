@@ -22,15 +22,14 @@
 </p>
 
 <hr>
-<p align="right">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=voxquoocshuyy&count_private=true&theme=radical" /> </br> </br>
-	<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxquoocshuyy&count_private=true&theme=radical" />
 
-
+<h4> 🔭 I’m currently working with ...</h4>
 <p>
-	<h3>🔭 I’m currently working with ...</h3>
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=voxquoocshuyy&count_private=true&theme=radical" /> </br> </br>
+	<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxquoocshuyy&count_private=true&theme=radical" />
+<p>
+   <br>
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">&nbsp;&nbsp;
@@ -54,8 +53,19 @@
   <br>
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />&nbsp;&nbsp;
- </p>
- </p>
+  
+</p>
+</p>
+<br>
+<hr>
+
+<h4>🌱 I'm currently learning...</h4>
+<p >
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
   
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
