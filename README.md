@@ -1,5 +1,6 @@
 <!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 <!-- <img align="center" width="800" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" /> -->
+<script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vo Quoc Huy</h1>
 <h3 align="center">Software Engineer | FPT University </h3>
@@ -24,12 +25,12 @@
 <hr>
 <div align="right">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=voxquoocshuyy&count_private=true&theme=radical" /> </br> </br>
-	<hr>
 	<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxquoocshuyy&count_private=true&theme=radical" />
 </div>
 
 <div align="left">
-	
+	<h5>🔭 I’m currently working with ...</h5>
+	<span class="iconify" data-icon="typcn:html5"></span>
 </div>
 
 <div>
