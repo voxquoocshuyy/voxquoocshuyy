@@ -15,11 +15,8 @@
 
 <h4> 🔭 I’m currently working with ...</h4>
 <p>
-	<div align="center" >
 	<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=voxquoocshuyy&count_private=true&theme=radical" />
-		</br>
 	<img align="right" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxquoocshuyy&count_private=true&theme=radical" />
-	</div>
 <p>
    <br>
  	<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -67,11 +64,7 @@
   </br>
   </br>
   </br>
-  </br>
-  </br>
-  </br>
-  </br>
-  </br>
+
 <p align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
