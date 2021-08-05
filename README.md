@@ -17,6 +17,7 @@
 <p>
 	<div align="center" >
 	<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=voxquoocshuyy&count_private=true&theme=radical" />
+		</br>
 	<img align="right" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxquoocshuyy&count_private=true&theme=radical" />
 	</div>
 <p>
