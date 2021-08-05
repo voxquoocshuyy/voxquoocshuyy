@@ -25,9 +25,9 @@
 <p align="right">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=voxquoocshuyy&count_private=true&theme=radical" /> </br> </br>
 	<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxquoocshuyy&count_private=true&theme=radical" />
-</p>
 
-<p align="left">
+
+<p>
 	<h3>🔭 I’m currently working with ...</h3>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -54,6 +54,7 @@
   <br>
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />&nbsp;&nbsp;
+ </p>
  </p>
   
 <div>
