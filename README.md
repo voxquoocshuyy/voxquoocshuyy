@@ -48,7 +48,7 @@
 <br>
 <hr>
 
-<h4>🌱 I'm currently learning...</h4>
+<h4>🌱 I'm currently learning ...</h4>
 <p >
   	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;&nbsp;
