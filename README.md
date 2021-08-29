@@ -16,7 +16,7 @@
 <h4> 🔭 I’m currently working with ...</h4>
 <p>
 	<img align="right" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=voxquoocshuyy&count_private=true&theme=radical" />
-	
+	<img align="right" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxquoocshuyy&count_private=true&theme=radical" />
 <p>
    <br>
  	<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
