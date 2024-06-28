@@ -4,11 +4,10 @@
 <h3 align="center">Software Engineer </h3>
 
 <p align="center">
-	<a href="https://github.com/voxquoocshuyy"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/voxquoocshuyy/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/voxquoocshuyy/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/voxquoocshuyy"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://voxquoocshuyy.github.io/Portfolio/"><img alt="website" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/link.png"/></a>
+	<a href="https://voxquoocshuyy-portfolio.vercel.app"><img alt="website" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/link.png"/></a>
 	
 </p>
 
